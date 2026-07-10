@@ -7,6 +7,7 @@ A lightweight, zero-config **Cloudflare Worker** that scrapes public Snapchat pr
 </div>
 
 > **Note**: This tool only accesses publicly available data from Snapchat's web pages.
+
 > **LIVE AT**: https://snapchatinfo.iamaryanbhalsing.workers.dev/?username=
 ---
 
